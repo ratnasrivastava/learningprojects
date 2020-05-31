@@ -11,6 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/currency-converter" />
+            <option value="$PROJECT_DIR$/guessrandomnumber" />
+            <option value="$PROJECT_DIR$/imageswitcher" />
+            <option value="$PROJECT_DIR$/numbershapes" />
+            <option value="$PROJECT_DIR$/thread" />
             <option value="$PROJECT_DIR$/tictactoe" />
           </set>
         </option>

@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AllProjects.iml" filepath="$PROJECT_DIR$/AllProjects.iml" group="AllProjects" />
+      <module fileurl="file://$PROJECT_DIR$/imageswitcher/AllProjects-imageswitcher.iml" filepath="$PROJECT_DIR$/imageswitcher/AllProjects-imageswitcher.iml" group="AllProjects/imageswitcher" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AllProjects/app" />
+      <module fileurl="file://$PROJECT_DIR$/currency-converter/currency-converter.iml" filepath="$PROJECT_DIR$/currency-converter/currency-converter.iml" group="AllProjects/currency-converter" />
+      <module fileurl="file://$PROJECT_DIR$/guessrandomnumber/guessrandomnumber.iml" filepath="$PROJECT_DIR$/guessrandomnumber/guessrandomnumber.iml" group="AllProjects/guessrandomnumber" />
+      <module fileurl="file://$PROJECT_DIR$/numbershapes/numbershapes.iml" filepath="$PROJECT_DIR$/numbershapes/numbershapes.iml" group="AllProjects/numbershapes" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" group="AllProjects/thread" />
       <module fileurl="file://$PROJECT_DIR$/tictactoe/tictactoe.iml" filepath="$PROJECT_DIR$/tictactoe/tictactoe.iml" group="AllProjects/tictactoe" />
     </modules>
   </component>

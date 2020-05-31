@@ -1,0 +1,7 @@
+<resources>
+    <string name="appname">Currency Converter</string>
+    <string name="currencyTextView">Please enter the amount which you want to convert</string>
+    <string name="amountInEuro">Amount in Euro:</string>
+    <string name="amountInDollars">Amount in Dollars:</string>
+    <string name="Convert">Convert</string>
+</resources>

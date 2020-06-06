@@ -1,7 +1,1 @@
-include ':app'
-include ':tictactoe'
-include ':thread'
-include ':currency-converter'
-include ':guessrandomnumber'
-include ':numbershapes'
-include ':imageswitcher'
+include ':app', ':tictactoeanimated', ':tictactoe',':thread',':currency-converter',':guessrandomnumber',':numbershapes',':imageswitcher'
